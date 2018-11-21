@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot", "DiscordBot\DiscordBot.csproj", "{39654343-3BB5-42FF-B140-7F65F6113992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot2", "DiscordBot2\DiscordBot2.csproj", "{743418E9-0EC0-43E4-8EE1-B42202F16287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivio", "Survivio\Survivio.csproj", "{886EC406-B25E-4B5C-88DB-79DB332CA6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39654343-3BB5-42FF-B140-7F65F6113992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39654343-3BB5-42FF-B140-7F65F6113992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39654343-3BB5-42FF-B140-7F65F6113992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39654343-3BB5-42FF-B140-7F65F6113992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743418E9-0EC0-43E4-8EE1-B42202F16287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743418E9-0EC0-43E4-8EE1-B42202F16287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743418E9-0EC0-43E4-8EE1-B42202F16287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743418E9-0EC0-43E4-8EE1-B42202F16287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886EC406-B25E-4B5C-88DB-79DB332CA6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886EC406-B25E-4B5C-88DB-79DB332CA6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886EC406-B25E-4B5C-88DB-79DB332CA6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886EC406-B25E-4B5C-88DB-79DB332CA6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422ADE83-E63D-4641-9629-7A4AC509EF6E}
+	EndGlobalSection
+EndGlobal
